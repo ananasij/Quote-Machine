@@ -1,0 +1,41 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: background-image 1s ease;
+}
+
+.quote_container {
+    margin: 15% auto 15% auto;
+    padding: 40px 50px;
+    max-width: 750px;
+    opacity: 0.87;
+    background-color: white;
+}
+
+.quote {
+    padding: 0 20px;
+}
+
+.author {
+    padding: 0 50px;
+    font-size: 18px;
+}
+
+.quote-font {
+    font-family: 'Special Elite';
+}
+
+.bottom-row {
+    margin: 30px 0 0 0;
+}
+
+.button-font {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 16px;
+}
